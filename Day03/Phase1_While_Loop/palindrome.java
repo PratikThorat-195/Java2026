@@ -1,4 +1,6 @@
 // Check whether the number is palindrome or not
+// A palindrome number is any integer that reads exactly the same forwards and backwards
+// Example: 121 -> reverse 121
 import java.util.Scanner;
 
 public class palindrome
