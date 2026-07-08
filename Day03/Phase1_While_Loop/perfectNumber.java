@@ -35,6 +35,6 @@ public class perfectNumber
         else
             System.out.println("Given Number "+number+" is Not Perfect Number");
 
-        sc.close();
+        // sc.close();
     }
 }
