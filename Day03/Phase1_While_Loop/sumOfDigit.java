@@ -1,4 +1,5 @@
 // Calculate Sum of all digit of a given number
+
 import java.util.Scanner;
 
 public class sumOfDigit
