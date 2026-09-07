@@ -23,3 +23,4 @@ Phase 1 : While Loop
 21. Print the square of each number from 1 to n.
 22. Print the cube of each number from 1 to n.
 23. Print all numbers between a and b that are divisible by 7.
+
