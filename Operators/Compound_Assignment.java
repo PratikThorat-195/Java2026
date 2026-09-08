@@ -50,12 +50,20 @@ public class Compound_Assignment
         System.out.println("/= : pp = pp / qq : "+pp); // /= : pp = pp / qq : 9
 
         System.out.println("=================================================================");
-        
+
         // ===================
         // %=
         // ===================
         int ee = 90, ff = 10;
         ee%=ff;
         System.out.println("%= : ee = ee % ff : "+ee); // %= : ee = ee % ff : 0
+
+        // complete result
+        int aaa=20, bbb=10;
+        System.out.println("aaa+=bbb : "+(aaa+=bbb));
+        System.out.println("aaa-=bbb : "+(aaa-=bbb));
+        System.out.println("aaa*=bbb : "+(aaa*=bbb));
+        System.out.println("aaa/=bbb : "+(aaa/=bbb));
+        System.out.println("aaa%=bbb : "+(aaa%=bbb));
     }
 }
