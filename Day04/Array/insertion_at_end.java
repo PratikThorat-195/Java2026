@@ -6,7 +6,7 @@ import java.util.Scanner;
 // ● Insert at beginning
 // ● Insert at a given index
 
-public class insertion_operation
+public class insertion_at_end
 {
     public static void main(String[] args) {
         System.out.println("Enter the size of arrray : ");
@@ -43,6 +43,8 @@ public class insertion_operation
         System.out.println("");
 
         System.out.print("new array: "+Arrays.toString(newArr));
+
+        sc.close();
     }
 
     
